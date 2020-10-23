@@ -4,7 +4,7 @@ import SplitPane from 'react-split-pane'
 import { CssEditor, HtmlEditor, JavascriptEditor } from '../components/editors'
 import { useDebounce } from '../utils/useDebounce'
 
-import styles from '../styles/index.module.css'
+import styles from './index.module.css'
 
 const Index = () => {
   const [heightValue, setHeightValue] = useState('485px')

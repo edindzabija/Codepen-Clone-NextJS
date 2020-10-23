@@ -8,8 +8,11 @@
     "start": "next start"
   },
   "dependencies": {
+    "ace-builds": "^1.4.12",
     "next": "9.5.5",
     "react": "17.0.1",
-    "react-dom": "17.0.1"
+    "react-ace": "^9.1.4",
+    "react-dom": "17.0.1",
+    "react-split-pane": "^0.1.92"
   }
 }
